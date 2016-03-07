@@ -2,5 +2,5 @@ I haven't investigated the TOS of this so who knows. But this script goes to pac
 
 Requirements:
 
-Selenium
+Selenium </br>
 Firefox installed on your machine.
